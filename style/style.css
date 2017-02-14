@@ -1,0 +1,25 @@
+.container {
+  width: 100% !important;
+  padding: 0 !important;
+}
+
+.input-group {
+  margin: 20px 20px !important;
+  width: auto !important;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: left !important;
+}
+
+svg {
+  height: 150px !important;
+  margin: 10px 0 !important;
+}
+
+.row-styles {
+  font-size: 18px !important;
+}
+
+
